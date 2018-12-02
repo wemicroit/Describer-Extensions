@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <VSTemplate Version="3.0.0" Type="Item" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" xmlns:sdk="http://schemas.microsoft.com/developer/vstemplate-sdkextension/2010">
   <TemplateData>
-    <Name>Enum-Template</Name>
-    <Description>Enum-Template</Description>
-    <Icon>Enum-Template.ico</Icon>
-    <TemplateID>b5e18194-6ec1-4b06-ab74-517df9663fe0</TemplateID>
+    <Name>Model Documentation</Name>
+    <Description>This document can be utilised to document a Model in XML format.</Description>
+    <Icon>ModelDe4escription-ItemTemplate.ico</Icon>
+    <TemplateID>c16c63e7-eedb-48d7-b2fc-b5eddf2eace8</TemplateID>
     <ProjectType>CSharp</ProjectType>
     <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
     <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
-    <DefaultName>Class.cs</DefaultName>
+    <DefaultName>Model.xml</DefaultName>
   </TemplateData>
   <TemplateContent>
     <References>
@@ -16,6 +16,6 @@
         <Assembly>System</Assembly>
       </Reference>
     </References>
-    <ProjectItem ReplaceParameters="true">Class.cs</ProjectItem>
+    <ProjectItem ReplaceParameters="false">Model.xml</ProjectItem>
   </TemplateContent>
 </VSTemplate>

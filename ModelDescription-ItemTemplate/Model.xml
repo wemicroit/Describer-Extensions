@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<doc>
+  <models name="">
+    <model>
+      <summary>
+      </summary>
+      <remark>
+        <para></para>
+      </remark>
+    </model>
+    <constructor name="Default">
+      <summary>
+      </summary>
+      <remark>
+        <para></para>
+      </remark>
+      <example>
+        <code>
+        </code>
+      </example>
+    </constructor>
+    <properties name="">
+      <value>
+      </value>
+    </properties>
+    <methods name="" version="">
+      <summary>
+        <paramref name=""/>
+      </summary>
+      <remark>
+        <para></para>
+      </remark>
+      <param name=""></param>
+      <returns>
+      </returns>
+      <exception cref=""></exception>
+      <example>
+        <code>
+        </code>
+      </example>
+    </methods>
+  </models>
+</doc>
