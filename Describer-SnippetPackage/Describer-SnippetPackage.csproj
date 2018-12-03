@@ -82,6 +82,12 @@
     </Content>
     <Content Include="Snippets\Describer\param.snippet" />
     <Content Include="Snippets\Describer\paramref.snippet" />
+    <Content Include="Snippets\Describer\interfaces_ref.snippet" />
+    <Content Include="Snippets\Describer\models_ref.snippet" />
+    <Content Include="Snippets\Describer\constructors_ref.snippet" />
+    <Content Include="Snippets\Describer\fields_ref.snippet" />
+    <Content Include="Snippets\Describer\properties_ref.snippet" />
+    <Content Include="Snippets\Describer\methods_ref.snippet" />
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>
