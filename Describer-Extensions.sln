@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Describer-TemplatePackage", "Commenter-ItemTemplates\Describer-TemplatePackage.csproj", "{9A4A774D-9465-4583-872A-3509133E7AA7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Describer-TemplatePackage", "Describer-TemplatePackage\Describer-TemplatePackage.csproj", "{9A4A774D-9465-4583-872A-3509133E7AA7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassDescription-ItemTemplate", "ClassDescription-ItemTemplate\ClassDescription-ItemTemplate.csproj", "{83419631-E8AF-4803-A61E-A872953047C4}"
 EndProject
