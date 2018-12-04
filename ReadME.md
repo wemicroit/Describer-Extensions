@@ -25,12 +25,7 @@
 <hr />
 <h1>Contributing Guidelines</h1>
 <h2>Undertaking an existing issue</h2>
-<p>I welcome others to contribute towards these extensions by assigning an Issue to them selves, creating a branch from Develop named according the following convention:</p>
-<ul>
-<li>feature/#{issueNumber}-{Short summary}
-<li>fix/#{issueNumber}-{Short summary}
-</ul>
-<p>In both those conventions the issue number corresponds to the issue number which these commits are addressing & the shory summary is to make it easier to work out what the branch is for.</p>
+<p>I welcome others to contribute towards these extensions by assigning an Issue to them selves, creating a branch from Develop named according the following documented conventions:</p>
 <p>Once an issue is believed to have been resolved a Pull request needs to be made to merge the branch back into the appropiate release branch</p>
 <p>An administrator will review the code and if happy merge it into the release branch.</p>
 <p>Please note any new functionality which is implemented needs to be unit tested as well as documented using the conventions in place</p>
