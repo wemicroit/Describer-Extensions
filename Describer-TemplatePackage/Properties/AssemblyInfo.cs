@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Enum-Template")]
+[assembly: AssemblyTitle("Commenter_ItemTemplates")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("James Thompson")]
-[assembly: AssemblyProduct("Enum-Template")]
-[assembly: AssemblyCopyright("Copyright © James Thompson 2018")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("Commenter_ItemTemplates")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -18,9 +18,6 @@ using System.Runtime.InteropServices;
 // to COM components.  If you need to access a type in this assembly from 
 // COM, set the ComVisible attribute to true on that type.
 [assembly: ComVisible(false)]
-
-// The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b46f351d-2ac8-44f6-850a-c9e88a1f2873")]
 
 // Version information for an assembly consists of the following four values:
 //

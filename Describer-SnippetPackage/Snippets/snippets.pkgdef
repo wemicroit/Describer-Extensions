@@ -1,0 +1,8 @@
+﻿; Replace "JavaScript" with any of the supported languages
+; Languages: "Basic", "C/C++", "CSharp", "CSS", "HTML", "JavaScript", "SQL_SSDT", "XML"
+
+[$RootKey$\Languages\CodeExpansions\XML\Paths]
+"MySnippets"="$PackageFolder$\XML\Describer"
+
+[$RootKey$\Languages\CodeExpansions\CSharp\Paths]
+"MySnippets"="$PackageFolder$\CSharp\Describer"
