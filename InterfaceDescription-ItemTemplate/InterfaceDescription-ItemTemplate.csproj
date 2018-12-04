@@ -48,8 +48,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Interface.xml" />
     <Content Include="InterfaceDescription-ItemTemplate.vstemplate" />
+    <Content Include="Interface.xml" >
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <Content Include="Resources\InterfaceDescription-ItemTemplate.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
