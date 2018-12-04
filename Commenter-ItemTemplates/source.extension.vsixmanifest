@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="Describer_Templates.5bad3f64-998d-46a8-8a70-801e4d012c2e" Version="1.0" Language="en-US" Publisher="James Thompson" />
+        <Identity Id="5bad3f64-998d-46a8-8a70-801e4d012c2e" Version="1.0" Language="en-US" Publisher="WeMicroIt" />
         <DisplayName>Describer - Templates</DisplayName>
         <Description xml:space="preserve">Adds in a collection of different XML documents which can be used to describe different types of documents.</Description>
-        <License>MIT</License>
+        <Icon>Resources/Icon.png</Icon>
+        <PreviewImage>Resources/Preview.png</PreviewImage>
+        <Tags>templates, documenting, commenting, describing</Tags>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[15.0, 16.0)" />
     </Installation>
     <Dependencies>
-        <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="[4.5,)" />
     </Dependencies>
     <Assets>
         <Asset Type="Microsoft.VisualStudio.ItemTemplate" d:Source="Project" d:ProjectName="ClassDescription-ItemTemplate" d:TargetPath="|ClassDescription-ItemTemplate;TemplateProjectOutputGroup|" Path="ItemTemplates" d:VsixSubPath="ItemTemplates" />
