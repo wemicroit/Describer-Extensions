@@ -28,7 +28,8 @@
 <p>The reason for this is due to the other conventions</p>
 <h4>Issue into a release</h4>
 <p>This has to been performed via a pull request which will perform a squish of the commits. </p>
-<p>The commit message is to be the #{IssueNumber} followed by a short summary ie same as the branch name. </p>
+<p>The commit title is to be the #{IssueNumber} followed by a short summary ie same as the branch name. </p>
+<p>The commit description is to be a list of all the commits which are being merged in. Note this can be tided up etc.</p>
 <h4>Issue into RC/RTM</h4>
 <p>This is not allowed it needs to go via a release branch ie milestone.</p>
 <h4>Release into RTM </h4>
