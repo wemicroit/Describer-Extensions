@@ -49,45 +49,66 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Snippets\Describer\remark.snippet">
+    <Content Include="Snippets\XML\Describer\remark.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\Describer\constructor.snippet">
+    <Content Include="Snippets\XML\Describer\constructor.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\Describer\properties.snippet">
+    <Content Include="Snippets\XML\Describer\properties.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\Describer\methods.snippet">
+    <Content Include="Snippets\XML\Describer\methods.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\Describer\classes.snippet">
+    <Content Include="Snippets\XML\Describer\classes.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\Describer\enums.snippet">
+    <Content Include="Snippets\XML\Describer\enums.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\Describer\field.snippet">
+    <Content Include="Snippets\XML\Describer\field.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\Describer\interfaces.snippet">
+    <Content Include="Snippets\XML\Describer\interfaces.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\Describer\seealso.snippet" />
-    <Content Include="Snippets\Describer\models.snippet">
+    <Content Include="Snippets\XML\Describer\seealso.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\Describer\exception.snippet">
+    <Content Include="Snippets\XML\Describer\models.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\Describer\param.snippet" />
-    <Content Include="Snippets\Describer\paramref.snippet" />
-    <Content Include="Snippets\Describer\interfaces_ref.snippet" />
-    <Content Include="Snippets\Describer\models_ref.snippet" />
-    <Content Include="Snippets\Describer\constructors_ref.snippet" />
-    <Content Include="Snippets\Describer\fields_ref.snippet" />
-    <Content Include="Snippets\Describer\properties_ref.snippet" />
-    <Content Include="Snippets\Describer\methods_ref.snippet" />
+    <Content Include="Snippets\XML\Describer\exception.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\XML\Describer\param.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\XML\Describer\paramref.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\CSharp\Describer\interfaces_ref.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\CSharp\Describer\models_ref.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\CSharp\Describer\constructors_ref.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\CSharp\Describer\fields_ref.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\CSharp\Describer\properties_ref.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\CSharp\Describer\methods_ref.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\CSharp\Describer\enums_ref.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>

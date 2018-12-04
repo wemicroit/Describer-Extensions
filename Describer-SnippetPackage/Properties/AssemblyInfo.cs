@@ -1,11 +1,11 @@
 ﻿using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("Describer_SnippetPackage")]
+[assembly: AssemblyTitle("DescriberSnippetPackage")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Describer_SnippetPackage")]
+[assembly: AssemblyCompany("WeMicroIt")]
+[assembly: AssemblyProduct("DescriberSnippetPackage")]
 [assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

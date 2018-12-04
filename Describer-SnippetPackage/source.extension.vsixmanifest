@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="83c4881b-440f-4152-96ac-12daf2d673d3" Version="1.0" Language="en-US" Publisher="James" />
+        <Identity Id="83c4881b-440f-4152-96ac-12daf2d673d3" Version="1.0" Language="en-US" Publisher="WeMicroIt" />
         <DisplayName>Describer - Snippet Package</DisplayName>
-        <Description xml:space="preserve">A snippet pack for Visual Studio which makes it easier to write XML Documentation.</Description>
+        <Description xml:space="preserve">A set of Visual Studio Snippets which make it easier to describe what is happening in your code &amp; at the same simplifies the process to create external XML documentation filess.</Description>
         <Icon>Resources\Icon.png</Icon>
         <PreviewImage>Resources\Preview.png</PreviewImage>
         <Tags>snippets</Tags>

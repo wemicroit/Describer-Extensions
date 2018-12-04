@@ -1,16 +1,16 @@
 ﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
     <Header>
-        <Title>Add Field Description Reference</Title>
+        <Title>Add Constructor Description Reference</Title>
         <Author>James</Author>
-        <Shortcut>///field</Shortcut>
+        <Shortcut>///constructor</Shortcut>
         <Description>Link the external description to this node.</Description>
         <SnippetTypes>
             <SnippetType>Expansion</SnippetType>
         </SnippetTypes>
     </Header>
     <Snippet>
-        <Code Language="XML">
-            <![CDATA[/// <include file='./docs/#type#.xml' path='doc/#type#s[@name=""]/field[@name=""]/*'/> ]]>
+        <Code Language="CSharp">
+            <![CDATA[/// <include file='./docs/#type#.xml' path='doc/#type#s[@name=""]/constructor[@name=""][@version=""]/*'/> ]]>
         </Code>
     </Snippet>
 </CodeSnippet>
