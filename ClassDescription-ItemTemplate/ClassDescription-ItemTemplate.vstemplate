@@ -3,7 +3,7 @@
   <TemplateData>
     <Name>Class Documentation</Name>
     <Description>This document can be utilised to document a Class in XML format.</Description>
-    <Icon>ClassDescription-ItemTemplate.ico</Icon>
+    <Icon>Resources/ClassDescription-ItemTemplate.ico</Icon>
     <TemplateID>c16c63e7-eedb-48d7-b2fc-b5eddf2eace8</TemplateID>
     <ProjectType>CSharp</ProjectType>
     <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
