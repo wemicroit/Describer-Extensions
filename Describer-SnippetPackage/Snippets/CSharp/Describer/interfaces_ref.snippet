@@ -1,0 +1,16 @@
+﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <Header>
+        <Title>Add Interface Description Reference</Title>
+        <Author>James</Author>
+        <Shortcut>///interface</Shortcut>
+        <Description>Link the external description to this node.</Description>
+        <SnippetTypes>
+            <SnippetType>Expansion</SnippetType>
+        </SnippetTypes>
+    </Header>
+    <Snippet>
+        <Code Language="CSharp">
+            <![CDATA[/// <include file='./docs/Interfaces.xml' path='doc/interfaces[@name=""]/interface/*'/> ]]>
+        </Code>
+    </Snippet>
+</CodeSnippet>

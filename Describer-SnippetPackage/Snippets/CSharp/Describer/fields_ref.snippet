@@ -1,0 +1,16 @@
+﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <Header>
+        <Title>Add Field Description Reference</Title>
+        <Author>James</Author>
+        <Shortcut>///field</Shortcut>
+        <Description>Link the external description to this node.</Description>
+        <SnippetTypes>
+            <SnippetType>Expansion</SnippetType>
+        </SnippetTypes>
+    </Header>
+    <Snippet>
+        <Code Language="CSharp">
+            <![CDATA[/// <include file='./docs/#type#.xml' path='doc/#type#s[@name=""]/field[@name=""]/*'/> ]]>
+        </Code>
+    </Snippet>
+</CodeSnippet>
